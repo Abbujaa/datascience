@@ -1,1 +1,1 @@
-# datascience
+# core ml and mlops study 
